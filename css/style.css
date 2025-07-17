@@ -25,12 +25,15 @@
     border: none;
 }
 
+
+
 /* header styles */
 .header{
-    background-image: url('../images/developer.png'), url('../images/header_bg.png');
-    background-repeat: no-repeat;
-    background-position: top left,bottom right;
+  background-image: url('../images/developer.png'), url('../images/header_bg.png');
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
+
 
 /* Nav styles */
 nav{
