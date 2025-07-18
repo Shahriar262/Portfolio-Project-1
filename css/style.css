@@ -193,3 +193,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     font-size: 18px;
     border: none;
 }
+.btn-primary:hover{
+    cursor: pointer;
+    background-color: rgb(151, 174, 167);
+}
